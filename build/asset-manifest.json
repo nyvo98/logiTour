@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d76e5f7.chunk.css",
+    "main.js": "/static/js/main.52a06610.chunk.js",
+    "main.js.map": "/static/js/main.52a06610.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.8035561f.chunk.css": "/static/css/2.8035561f.chunk.css",
+    "static/js/2.4c59202a.chunk.js": "/static/js/2.4c59202a.chunk.js",
+    "static/js/2.4c59202a.chunk.js.map": "/static/js/2.4c59202a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8f38482e907c3e931e8e2dc2c57dedaa.js": "/precache-manifest.8f38482e907c3e931e8e2dc2c57dedaa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8035561f.chunk.css.map": "/static/css/2.8035561f.chunk.css.map",
+    "static/css/main.0d76e5f7.chunk.css.map": "/static/css/main.0d76e5f7.chunk.css.map",
+    "static/media/coreui-icons.min.css": "/static/media/CoreUI-Icons-Linear-Free.4b57c6a5.svg",
+    "static/media/App.css": "/static/media/background.e628156e.jpg",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f33df365.eot",
+    "static/media/UploadIcon.svg": "/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/flag-icon.min.css": "/static/media/zw.ad4ad36d.svg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
