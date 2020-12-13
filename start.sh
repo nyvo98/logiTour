@@ -1,1 +1,1 @@
-yarn buld && serve -l 3033 -s build
+serve -l 3033 -s build
