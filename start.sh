@@ -1,1 +1,1 @@
-serve -l 3033 -s build
+pm2 serve build 3033
