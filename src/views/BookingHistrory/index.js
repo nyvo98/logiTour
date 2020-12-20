@@ -537,10 +537,6 @@ class BookingHistrory extends PureComponent {
           </ModalBody>
           <ModalFooter>
             <Button color={'secondary'} onClick={this.hideModal}>{'Close'}</Button>
-            <Button disabled={!this.state.isOK} color={'primary'} onClick={this.onCreateData}>{
-              this.state.isLoading
-                ? (<Spinner style={{ width: '1.2rem', height: '1.2rem' }} color='light' />)
-                : (selectedEdit ? 'Edit' : 'Create')}</Button>
           </ModalFooter>
         </Modal>
         {getLength(arrData) === 0 ? ''
